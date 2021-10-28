@@ -1,6 +1,6 @@
 -cp src
 -lib heaps
--lib hldx
+-lib hlsdl
 -hl main.hl
 -main Main
 #-D windowSize=1366x768
